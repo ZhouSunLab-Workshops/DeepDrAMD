@@ -1,0 +1,4 @@
+datasets/test/AMD/A0001.jpg 1
+datasets/test/AMD/A0002.jpg 1
+datasets/test/Normal/N0001.jpg 0
+datasets/test/Normal/N0002.jpg 0
