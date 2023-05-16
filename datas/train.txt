@@ -1,0 +1,2 @@
+datasets/train/AMD/A0001.jpg 1
+datasets/train/Normal/N0001.jpg 0
